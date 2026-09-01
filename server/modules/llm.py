@@ -40,5 +40,5 @@ Answer:
 )
 return RetrievalQA.from_chain_type(
     llm=llm,
-    chain_type;
+    chain_type
 )
